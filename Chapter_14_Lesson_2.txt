@@ -1,0 +1,31 @@
+Exercise #1
+
+Slice the string in such a way that it will print only "Test".
+
+Code snippet:
+my_string = "Test Automation"
+
+print_this_line="Test Automation"
+print_this_line[:4]
+'Test'
+
+
+Exercise #2
+
+Slice the string in such a way that it will print only "Automation".
+
+Code snippet:
+my_string = "Test Automation"
+
+print_this_line="Test Automation"
+print_this_line[-10:]
+'Automation'
+
+
+Exercise #3
+
+Slice the second and third elements (50 and 20) in the list.
+
+Code snippet:
+my_list = [10,50,20,25,30]
+
